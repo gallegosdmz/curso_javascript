@@ -1,0 +1,5 @@
+Creación de Elementos:
+
+    - createElement() - Nos crea un elemento o etiqueta de HTML.
+    - createTextNode() - Nos crea un text node.
+    - appendChild() - Es un metodo que se les aplica a los child para agregarles algo (hijos). 

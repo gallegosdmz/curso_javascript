@@ -1,0 +1,4 @@
+Funciones:
+
+    - Definición y Usos - Una función es un bloque de código que se puede utilizar en diferentes momentos.
+    - Parametros - Son variables que definimos o damos su valor cuando llamamos a la función.

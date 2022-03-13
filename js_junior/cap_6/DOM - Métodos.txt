@@ -1,0 +1,46 @@
+DOM:
+
+    - Nodo - Un nodo en el DOM es cualquier etiqueta del cuerpo, como un párrafo, el mismo body o incluso las etiquetas de una lista.
+    
+        - Document - El nodo document es el nodo raíz, a partir del cual derivan el resto de nodos.
+        - Element - Nodos definidos por etiquetas HTML.
+        - Text - El texto dentro de un nodo element, se considera un nuevo nodo hijo de tipo text (texto).
+        - Attribute - Los atributos de las etiquetas definen nodos, (en JavaScript no los veremos como nodos, sino como información asociada al nodo de tipo element.).
+        - Comentarios y otros - Los comentarios y otros elementos como las declaraciones doctype en cabecera de los documentos HTML generan nodos.
+
+Document - Métodos de selección de elementos:
+
+    - document.getElementsById() - Selecciona un elemento por ID.
+    - document.getElementsByTagName() - Selecciona todos los elementos que coincidan con el nombre de la etiqueta especificada.
+    - document.querySelector() - Devuelve el primer elemento que coincida con el grupo especificado de selectores.
+    - document.querySelectorAll() - Devuelve todos los elementos que coincidan con el grupo especificado de sectores.
+
+Métodos para Definir, Obtener y Eliminar valores de atributos.
+
+    - setAttribute() - Modifica el valor de un atributo.
+    - getAttribute() - Obtiene el valor de un atributo.
+    - removeAttribute() - Remueve el valor de un atributo.'
+
+Atributos Globales:
+
+    - Class - Lista de clases del elemento separadas por espacios.
+    - Contenteditable - Indica si el elemento puede ser modificable por el usuario (bool).
+    - Dir - Indica la direccionalidad del texto.
+    - Hidden - Indica si el elemento aún no es, o ya no es, relevante.
+    - Id - Define un identificador único.
+    - Style - Contiene declaraciones de estilos CSS para ser aplicadas al elemento.
+    - Tabindex - Indica si el elemento puede obtener un focus de input.
+    - Title - Contiene un texto con información relacionada al elemento al que pertenece.
+
+Atributos de Inputs:
+
+    - className - Nos muestra lo que tiene adentro del atributo Class.
+    - value - Nos muestra lo que hay adentro del INPUT.
+    - type - Podemos modificar el type del INPUT.
+    - accept - Nos ayuda a decir los archivos que queremos permitir en un INPUT de tipo file.
+    - form - Nos permite acceder a un formulario desde un boton que esté por fuera del formulario.
+    - minLength - Nos ayuda a poner la minima cantidad de caracterese que debe tener un INPUT.
+    - placeholder - Nos escribe el texto que querramos dentro del INPUT.
+    - required - Nos ayuda a decir si el campo del INPUT es requerido (obligatorio).
+
+

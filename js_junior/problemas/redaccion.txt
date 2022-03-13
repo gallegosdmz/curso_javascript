@@ -1,0 +1,65 @@
+1.- 3 chicos de 23 años perfectamente normales entran a una heladeria a comprar un helado, pero hay un problema: 
+los precios no estan al lado de cada estante con su respectivo helado.
+
+Ellos quieren comprar el helado mas caro que puedan con la plata que tienen, así que veamos como podemos
+ayudarlos.
+
+- Roberto tiene $1.5 USD
+- Pedro tiene $1.7 USD
+- Cofla tiene $3 USD
+
+Los precio de helados son los siguientes:
+
+- Palito de helado de agua: $0.6 USD
+- Palito de helado de crema: $1 USD
+- Bombón helado marca heladix: $1.6 USD
+- Bombón heladHo marca heladovich: $1.7 USD
+- Bombón helado marca helardo: $1.8 USD
+- Potecito de helado con confites: $2.9 USD
+- Pote de 1/4 KG -> $2.9 USD
+
+Crear soluciones:
+
+- Pedirles que ingresen el monto que tienen y mostrarles el helado más caro que puedan comprar.
+- Si hay 2 o más con el mismo precio, mostrar ámbos.
+- Cofla quieres saber de cuanto es la feria.
+
+
+
+2.- Un joven muy afortunado logró ganar el primer premio de la lotería, este pobre decide hacer una fiesta para
+festejar que salío de la probreca, este millonario compró una máquina que deja pasar solamente a los mayores
+de edad, entre otras cosas.
+
+- Dejar parasar solo a los mayores de edad.
+- La primer persona que entre despues de las 2 AM, no paga.
+
+Cofla vuelve de la comisaría y por lo cansado que estaba se fue a dormir.
+Al otro día, comienzan las clases del ciclo básico de la universidad. En su curso en total son 19 alumnos, pero surgió un problema que complicó
+un poco a la facultad: Se rompió el sistema de registro de asistencias y durante los próximos 30 días no se podrán hacer registros de datos de
+ningun tipo, por ende las clases no podrán comenzar hasta que esto este solucionado.
+
+- Crear mini-sistema que nos permita registrar los alumnos que están presentes (P) y ausentes (A) en clase.
+- Pasados los 30 días mostrar la situación final de todos los alumnos (Nro total de presentes y ausentes).
+- Se puede tener un máximo de 10% de ausencias por semestre, si se tienen más aclarar que está reprobado.
+
+
+
+3.- Cofla entró a una tienda que vende celulares. De todos los modelos que hay disponibles en esa tienda, a
+Cofla le llamaron la atención 3 telefonos especificamente, el proberlma es que ningun vendedor sabe nada
+al respecto sobre esos celualares. Cofla quiere er las cualidades y comportamientos de cada uno para
+poder comprarlos.
+
+Crear soluciones:
+
+- Crear un sistema para mostrarle a cofla las particularidades de los 3 celulares.
+- Cada celular debe tener color, peso, resolución de pantalla, resolución de camara y memoria ram.
+- Cada celular debe poder prender, reiniciar, apagar, tomar fotos y grabar.
+
+
+
+4.- Cofla ya está terminando el primer semestre del ciclo, la tarea que le debe realizar es mucho más avanzada de la que tenía ants, además de suma
+resta, multiplicación y divisón, ahora tambien necesitará calcular potencias, raices cuadradas y cúbicas.
+
+Crear soluciones:
+	
+- Perfeccionar calculadora para poder implementar las nuevas funciones.

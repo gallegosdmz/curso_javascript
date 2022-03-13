@@ -1,0 +1,13 @@
+Metodos:
+
+    - sqrt() - Devuelve la raíz cuadrada positiva de un número.
+    - cbrt() - Devuelve la raíz cúbica de un número.
+    - max() - Devuelve el número más grande de una lista de números.
+    - min() - Devuelve el número más pequeño de una lista de números.
+    - random() - Devuelve un número pseudo-aleatorio entre 0 y 1.
+    - round() - Devuelve el valor de un número redondeado al número entero más cercano.
+    - fround() - Devuelve la representación flotante de presición simple más cercana de un número.
+    - floor() - Devuelve el mayor entero menor que o igual a un número.
+    - trunc() - Elimina los decimales de un número.
+
+
